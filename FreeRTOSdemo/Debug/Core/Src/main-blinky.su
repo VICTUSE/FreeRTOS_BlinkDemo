@@ -1,0 +1,3 @@
+../Core/Src/main-blinky.c:127:6:main_blinky	16	static
+../Core/Src/main-blinky.c:158:13:prvQueueSendTask	24	static,ignoring_inline_asm
+../Core/Src/main-blinky.c:186:13:prvQueueReceiveTask	24	static,ignoring_inline_asm
